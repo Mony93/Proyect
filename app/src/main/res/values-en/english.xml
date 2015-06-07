@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="codigo">code</string>
+    <string name="nombre">name</string>
+    <string name="precio"> price</string>
+    <string name="descripcion">description</string>
+    <string name="buscar">search</string>
+    <string name="actualizar">update</string>
+    <string name="borrar">delete</string>
+    <string name="modificar">modify</string>
+    <string name="limpiar">cleanse</string>
+    <string name="registrar">record</string>
+    <string name="opciones">options</string>
+    <string name="salir">leave</string>
+    <string name="app_name">stationery</string>
+    <string name="title_activity_acercade">about</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombres">monica</string>
+    <string name="control">11930110</string>
+</resources>
